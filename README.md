@@ -1,6 +1,6 @@
 [![Fsu0413's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsu0413&hide=stars,issues&show_icons=true)](https://github.com/Fsu0413/Fsu0413)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsu0413&hide=html,css)](https://github.com/Fsu0413/Fsu0413)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsu0413&hide=html,css,javascript)](https://github.com/Fsu0413/Fsu0413)
 
 [![Touhou Satsu](https://github-readme-stats.vercel.app/api/pin/?username=lwtmusou&repo=touhoukill&show_owner=true)](https://github.com/lwtmusou/touhoukill)
 
